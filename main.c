@@ -1,7 +1,7 @@
 #include <time.h>
-#include "fileConverter.h"
-#include "huffmanDico.h"
-#include "compression.h"
+#include "data/fileConverter.h"
+#include "data/huffmanDico.h"
+#include "data/compression.h"
 
 int main(int argc, char* argv[]) {
     double timeSpent = 0.0;
